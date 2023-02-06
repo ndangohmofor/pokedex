@@ -48,7 +48,7 @@ const PokemonCollection: React.FC<Props> = (props) => {
       <div className="row" style={{ backgroundColor: "red" }}>
         <span>
           <img
-            src="pokeLogo.png"
+            src="logo.png"
             alt="logo"
             id="left-wing"
             style={{

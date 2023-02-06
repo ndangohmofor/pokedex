@@ -2,6 +2,7 @@ import axios from "axios";
 import React, { useState, useEffect } from "react";
 import { pokeData } from "../interfaces/PokemonData";
 import { NavLink } from "react-router-dom";
+import "./pokemon.css";
 
 interface Props {
   name: string;
